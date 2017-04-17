@@ -3,6 +3,6 @@ repo for experimentation with maps
 site:
 https://pjtburke.github.io/maprepo/
 
-Fusion Table example:
+google maps example:
 
-<iframe width="500" height="300" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col15+from+14WlSnT3vSe88IWlg_9Y5Q_pT1eI2k8XRzQgjAcH7&amp;viz=MAP&amp;h=false&amp;lat=53.02980822957897&amp;lng=-1.787361756249993&amp;t=1&amp;z=6&amp;l=col15&amp;y=3&amp;tmplt=4&amp;hml=ONE_COL_LAT_LNG"></iframe>
+<iframe width="345.5" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1K-8cJw4LCYHLmVC3W5YBydKAOvtU7CrV_FTnoaZ-YrA/pubchart?oid=117681112&amp;format=interactive"></iframe>
